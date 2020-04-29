@@ -26,7 +26,7 @@ Para o projeto foi utilizado a MCV Architecture.
 
 Layout: 
 
-![Layout do forkify]()
+![Layout do forkify](https://github.com/ChristySchott/forkify/blob/master/forkify-1.PNG)
 
 ## :zap: Executando
 
